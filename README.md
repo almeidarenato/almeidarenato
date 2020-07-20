@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renato Almeida</h1>
 <h3 align="center">A developer from Brazil</h3>
-- 🔭 I’m currently working on **RocketSeat Bootcamp**
+
+- 🔭 I’m currently studying on **RocketSeat Bootcamp**
 
 - 💬 Ask me about **React, Javascript , NodeJS**
 
