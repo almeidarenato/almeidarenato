@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer open to build apps and help the community !</h3>
 
 - 💬 Ask me about **React, Javascript , NodeJS**
-[[
 
 
 <a href="https://twitter.com/renato-mareque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="renato-mareque" height="20" width="20" /></a>
