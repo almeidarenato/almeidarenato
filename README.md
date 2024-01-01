@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BDD , Gherkin , Python , React**
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Javascript, PowerBI, Excel, AppSheet**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/renato-mareque/](https://www.linkedin.com/in/renato-mareque/)
 
