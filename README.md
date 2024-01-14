@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almeidarenato&label=Profile%20views&color=0e75b6&style=flat" alt="almeidarenato" /> </p>
 
-- 🌱 I’m currently learning **BDD , Gherkin , Python , React**
+- 🌱 I’m currently learning **BDD , Gherkin , Python , React, AI**
 
 - 💬 Ask me about **React, Javascript, PowerBI, Excel, AppSheet**
 
