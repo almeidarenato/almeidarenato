@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning  Gherkin , Python , React, NodeJs, Tests Frameworks and AI
+- 🌱 I’m currently learning  Blockchain , Python , React, NodeJs, Tests Frameworks and AI
 
-- 💬 Ask me about **React, Javascript, PowerBI, Excel, AppSheet**
+- 💬 Ask me about **React, Javascript, PowerBi, Python**
 
 
 ## 🤝 Connect with me
