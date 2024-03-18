@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning  Blockchain , Python , React, NodeJs, Tests Frameworks and AI
+- 🌱 I’m currently learning  Python , React, Typescript and SEO
 
 - 💬 Ask me about **React, Javascript, PowerBi, Python**
 
