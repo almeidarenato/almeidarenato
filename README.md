@@ -1,30 +1,37 @@
-<h1 align="center">Hi 👋, I'm Renato</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h1 align="center">Olá, Eu sou Renato Almeida</h1>
 
-
-
-- 🌱 I’m currently learning  Python , React, Typescript and SEO
-
-- 💬 Ask me about **React, Javascript, PowerBi, Python**
-
-
-## 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/renato-mareque"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/renato-mareque"><img src="https://img.shields.io/badge/-Renato%20Mareque-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
+
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+
+- Meu foco principal tem sido atuar com front-end (CSS,Javascript,React e algumas interações com NodeJs) para desenvolver Landing Pages e Ecommerce (VTEX).
+- 
+- Também atuo no desenvolvimento de relatórios em PowerBI, e automações utilizando Python.
+
 
 
 ## 💻 Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### Front-end:
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-## ⚙️ Infrastructure / Devops / Tools
- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Back-end / Database:
+![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python) 
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLServer](https://img.shields.io/badge/-MSSQLServer-333333?style=flat&logo=mssqlserver)
+### Devops 
+ ![Vercel](https://img.shields.io/badge/Vercel-232F3E?style=flat&logo=vercel&logoColor=white) 
+ ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+ ![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat&logo=azure&logoColor=white)
 
 ## 📊 Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almeidarenato&label=Profile%20views&color=0e75b6&style=flat" alt="almeidarenato" /> </p>
