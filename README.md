@@ -7,7 +7,6 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - Meu foco principal tem sido atuar com front-end (CSS,Javascript,React e algumas interações com NodeJs) para desenvolver Landing Pages e Ecommerce (VTEX).
-- 
 - Também atuo no desenvolvimento de relatórios em PowerBI, e automações utilizando Python.
 
 
