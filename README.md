@@ -27,6 +27,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=SQLServer)
+
 ### Devops 
  ![Vercel](https://img.shields.io/badge/Vercel-232F3E?style=flat&logo=vercel&logoColor=white) 
  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
