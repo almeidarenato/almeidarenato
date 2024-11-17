@@ -22,11 +22,11 @@
 
 
 ### Back-end / Database:
-![Python](https://img.shields.io/badge/python-333333?style=flat&logo=python) 
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python) 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=SQLServer)
+![SQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=microsoft-sql-server)
 
 ### Devops 
  ![Vercel](https://img.shields.io/badge/Vercel-232F3E?style=flat&logo=vercel&logoColor=white) 
