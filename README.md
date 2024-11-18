@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Eu sou Renato Mareque</h1>
+<h1 align="center">Olá, Eu sou Renato</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/renato-mareque"><img src="https://img.shields.io/badge/-Renato%20Mareque-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
